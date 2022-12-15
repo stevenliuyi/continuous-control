@@ -49,4 +49,4 @@ Some other policy gradient or actor-critic reinforcement learning algorithms can
 - Proximal Policy Optimization (PPO)
 - Trust Region Policy Optimization (TRPO)
 - Asynchronous Advantage Actor-Critic (A3C)
-- D4PG (Distributed Distributional Deterministic Policy Gradients)
+- Distributed Distributional Deterministic Policy Gradients (D4PG)
