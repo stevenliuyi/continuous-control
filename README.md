@@ -10,7 +10,7 @@ The problem is considered solved with an average score of +30 (over all 20 agent
 
 ### Introduction
 
-The dependencies are provided inside the folder `python`. The Linux headless version of the Unity Environment used in this project is in the folder `Reacher_Linux_NoVis`. For other operating system, the environment files can be downloaded from:
+The dependencies are provided inside the folder `python`. This is adapted from the [ML-Agents repository](https://github.com/Unity-Technologies/ml-agents) but also includes additional pip packages needed. The Linux headless version of the Unity Environment used in this project is in the folder `Reacher_Linux_NoVis`. For other operating system, the environment files can be downloaded from:
 
 - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
 - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
