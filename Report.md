@@ -39,7 +39,7 @@ All hyperparamters used for training are listed below:
 ### Scores
 
 
-<img src="https://raw.githubusercontent.com/stevenliuyi/continous-control/main/scores.png" width="400" />
+<img src="https://raw.githubusercontent.com/stevenliuyi/continuous-control/main/scores.png" width="400" />
 
 The plot shows the score per episode during the training process. After 100 episodes, the network reaches an average score of +30 over 100 consecutive episodes. At the end of the training, the average score stabilizes at around +37.
 
